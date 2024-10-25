@@ -1,0 +1,5 @@
+print("This is a string")
+print("2+3")
+print(2+3)
+print("This is ", end="an end statement")
+print("This is an end statement")
